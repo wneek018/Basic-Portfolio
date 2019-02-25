@@ -33,12 +33,12 @@ div.whitebox {
     position: relative;
     border: 1px solid #dddddd;
     background-color: white;
-    width: 960px;
+    width: 928px;
     margin: auto;
     margin-top: 5%;
     padding-right: 15px;
     padding-left: 15px;
-    padding-bottom; 100px;
+    padding-bottom: 100px;
     overflow: auto;
     margin-bottom: 5%;
 }
